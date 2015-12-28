@@ -1,2 +1,2 @@
-# grailsWebFlowExample
-A simple grails web flow example app to REID blog
+Grails web flow example
+A simple grails web flow example app for REID blog
